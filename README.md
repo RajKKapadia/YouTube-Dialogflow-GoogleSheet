@@ -10,6 +10,8 @@ So, what are you waiting for, let's get started.
 I have recorded a quick tutorial on this topic, you can watch it [here]().
 
 ### Things you will need
+* GCP account, a project, service account credentials for that project
+* Enable Google Sheet API use from the GCP console, see the video for more details
 * Dialogflow agent
     > some knowledge of Dialogflow agent
 * NGROK for exposing our local server to internet for testing

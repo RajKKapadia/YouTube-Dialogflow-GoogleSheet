@@ -7,7 +7,7 @@ Hey everyone, if you are looking for a connection between Google Sheet and Dialo
 So, what are you waiting for, let's get started.
 
 ## Youtube
-I have recorded a quick tutorial on this topic, you can watch it [here]().
+I have recorded a quick tutorial on this topic, [you can watch it](https://www.youtube.com/watch?v=I-u9EGdTXSQ).
 
 ### Things you will need
 * GCP account, a project, service account credentials for that project
